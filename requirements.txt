@@ -1,0 +1,4 @@
+streamlit
+openai
+azure-identity
+azure-search-documents==11.4.0b11
